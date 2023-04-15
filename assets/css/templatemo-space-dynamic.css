@@ -1827,6 +1827,7 @@ responsive
     position: absolute;
     bottom: -220px;
     right: 0;
+    display: none;
   }
 
   .about-us .services {
@@ -1852,6 +1853,10 @@ responsive
   .our-services .left-image {
     margin-right: 0px;
     margin-bottom: 45px;
+  }
+
+  .certificate {
+    padding-top: 3%;
   }
 
   .our-services .section-heading h2,
@@ -2681,6 +2686,10 @@ responsive
   .u-section-4 .u-container-layout-6 {
     padding-left: 10px;
     padding-right: 10px;
+  }
+
+  .certificate {
+    padding-top: 10%;
   }
 }
 
