@@ -2081,6 +2081,10 @@ responsive
     width: auto;
     margin: 34px 0 56px;
   }
+
+  .container {
+    padding-top: 13%;
+  }
 }
 
 @media (max-width: 575px) {
@@ -2689,7 +2693,7 @@ responsive
   }
 
   .certificate {
-    padding-top: 10%;
+    padding-top: 21%;
   }
 }
 
